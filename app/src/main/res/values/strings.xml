@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+
+    <string name="title_detail">Detail</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_new_city">Add New City</string>
+
+    <string name="menu_item_map_location">Map Location</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_share">Share</string>
+    <string name="menu_item_share_with_message">Share with Message</string>
+    <string name="menu_item_search">Search</string>
+
+    <string name="settings_item_location">Location</string>
+    <string name="settings_item_tmp_units">Temperature Units</string>
+    <string name="settings_item_notifications">Weather Notifications</string>
+
+    <string name="set_city_cityName">Name</string>
+    <string name="set_city_submit">Submit</string>
+    <string name="set_city_cancel">Cancel</string>
+</resources>

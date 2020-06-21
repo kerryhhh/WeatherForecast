@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="weather_item_textSize_l">24sp</dimen>
+    <dimen name="weather_item_textSize_s">16sp</dimen>
+
+    <dimen name="top_textSize_l">65sp</dimen>
+    <dimen name="top_textSize_m">35sp</dimen>
+    <dimen name="top_textSize_s">22sp</dimen>
+
+    <dimen name="page_textSize_1">22sp</dimen>
+    <dimen name="page_textSize_2">16sp</dimen>
+</resources>
